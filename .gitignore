@@ -1,0 +1,4 @@
+cat_vc_dog/cats_vs_dogs_test_data.npz
+cat_vc_dog/cats_vs_dogs_test_labels.npz
+cat_vc_dog/cats_vs_dogs_training_data.npz
+cat_vc_dog/cats_vs_dogs_training_labels.npz
